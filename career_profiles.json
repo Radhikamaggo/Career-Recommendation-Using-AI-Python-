@@ -1,0 +1,82 @@
+[
+  {
+    "job_title": "Data Scientist",
+    "skills": "python, machine learning, statistics, data visualization",
+    "education": "bachelor",
+    "interests": "data, analytics, research",
+    "experience": "mid",
+    "description": "Analyzes data to extract insights and build predictive models."
+  },
+  {
+    "job_title": "Software Engineer",
+    "skills": "java, c++, algorithms, problem solving",
+    "education": "bachelor",
+    "interests": "coding, development, problem solving",
+    "experience": "junior",
+    "description": "Designs and develops software applications and systems."
+  },
+  {
+    "job_title": "Graphic Designer",
+    "skills": "photoshop, creativity, adobe illustrator, visual design",
+    "education": "associate",
+    "interests": "art, creativity, media",
+    "experience": "entry",
+    "description": "Creates visual concepts to communicate ideas."
+  },
+  {
+    "job_title": "Project Manager",
+    "skills": "leadership, communication, scheduling, budgeting",
+    "education": "bachelor",
+    "interests": "management, organization, planning",
+    "experience": "senior",
+    "description": "Oversees projects to ensure timely delivery within budget."
+  },
+  {
+    "job_title": "Marketing Specialist",
+    "skills": "seo, content creation, social media, communication",
+    "education": "bachelor",
+    "interests": "marketing, branding, communication",
+    "experience": "mid",
+    "description": "Develops strategies to promote products and brands."
+  },
+  {
+    "job_title": "Cybersecurity Analyst",
+    "skills": "network security, python, risk assessment, cryptography",
+    "education": "bachelor",
+    "interests": "security, technology, risk management",
+    "experience": "mid",
+    "description": "Protects an organization's computer systems and networks."
+  },
+  {
+    "job_title": "Mechanical Engineer",
+    "skills": "cad, thermodynamics, mechanics, problem solving",
+    "education": "bachelor",
+    "interests": "engineering, mechanics, design",
+    "experience": "mid",
+    "description": "Designs and tests mechanical devices and systems."
+  },
+  {
+    "job_title": "Financial Analyst",
+    "skills": "excel, finance, accounting, data analysis",
+    "education": "bachelor",
+    "interests": "finance, economics, data",
+    "experience": "junior",
+    "description": "Provides investment and financial recommendations."
+  },
+  {
+    "job_title": "Teacher",
+    "skills": "communication, patience, subject knowledge, mentoring",
+    "education": "bachelor",
+    "interests": "teaching, education, helping others",
+    "experience": "mid",
+    "description": "Educates and supports students in learning."
+  },
+  {
+    "job_title": "UX Designer",
+    "skills": "wireframing, user research, creativity, prototyping",
+    "education": "bachelor",
+    "interests": "design, user experience, psychology",
+    "experience": "mid",
+    "description": "Improves user satisfaction with products by enhancing usability."
+  }
+]
